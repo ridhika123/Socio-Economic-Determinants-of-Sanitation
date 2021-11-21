@@ -40,7 +40,7 @@ Variable_Namer <- function(old_name) {
 require(tidyverse)
 
 #starting cleaned dataset with response variable of interest, Access to Improved Sanitation Facilities
-Cleaned_Dataset <- read.csv(file.path('~', 'Downloads', 'resources', 'indicators', 'id_heal_06', 'raw.csv')) %>%
+Cleaned_Dataset <- read.csv(file.path('raw.csv')) %>%
   pivot_longer(names_to = 'Year', values_to = 'Access_Improved_Sanitation', cols = contains('X')) %>%
   rename(Abbreviation = ISO3,
          Country = Name) %>%
@@ -102,5 +102,4 @@ for (new_data in data_ids) {
 Filtered_Dataset <- Cleaned_Dataset %>%
   select(-for_join)
 
-data.table::fwrite(Filtered_Dataset, file.path('~', 'Desktop', 'Grinnell College', 'Fourth Year', 
-                                               'Probability and Statistics', 'Dataset.csv'))
+data.table::fwrite(Filtered_Dataset, file.path('Dataset.csv'))

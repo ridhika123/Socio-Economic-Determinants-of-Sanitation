@@ -1,6 +1,6 @@
 install.packages("tidyverse")
 library(tidyverse)
-data <- read_csv("~/Desktop/Semester 8/MAT Probability Statistics 2/Project/Dataset.csv")
+data <- read_csv("Dataset.csv")
 View(data)
 
 # dropping variable with less data
@@ -199,4 +199,4 @@ data_dropped <- drop_na(datanew)
 # 
 # View(datanew_continents)
 
-write.csv(data_dropped, "~/Desktop/Semester 8/MAT Probability Statistics 2/Project/cleaned_data.csv")
+write.csv(data_dropped, "cleaned_data.csv")

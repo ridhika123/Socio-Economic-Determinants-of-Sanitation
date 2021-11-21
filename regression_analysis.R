@@ -1,6 +1,6 @@
 install.packages("plm")
 
-cleaned_data <- read_csv("~/Desktop/Semester 8/MAT Probability Statistics 2/Project/cleaned_data.csv")
+cleaned_data <- read_csv("cleaned_data.csv")
 View(cleaned_data)
 dim(cleaned_data)
 

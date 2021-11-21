@@ -1,5 +1,5 @@
 
-cleaned_data <- read_csv("Desktop/Semester 8/MAT Probability Statistics 2/Project/cleaned_data.csv")
+cleaned_data <- read_csv("cleaned_data.csv")
 unique_data <- cleaned_data[!duplicated(cleaned_data[c('Country', 'Year')]),] 
 panel_data <- plm::pdata.frame(unique_data, index=c("Country","Year"), drop.index=TRUE, row.names=TRUE)
 sanitation <- panel_data$Access_Improved_Sanitation

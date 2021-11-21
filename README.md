@@ -9,7 +9,7 @@ https://gain.nd.edu/
 
 ## Code
 * [data_cleaning_1](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/data_cleaning_1.R)
-* data_cleaning_2
-* exploratory_analysis_for_project_proposal
-* regression_analysis
-* beta_mixture_analysis
+* [data_cleaning_2](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/data_cleaning_2.R)
+* [exploratory_analysis_for_project_proposal](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/exploratory_analysis_for_project_proposal.R)
+* [regression_analysis](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/regression_analysis.R)
+* [beta_mixture_analysis](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/beta_mixture_analysis.R)

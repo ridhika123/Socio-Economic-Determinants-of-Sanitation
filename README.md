@@ -8,8 +8,11 @@ Primary data set from ND-GAIN - Notre Dame Global Adaptation Initiative. The dat
 Data can be found [here](https://gain.nd.edu/).
 
 ## Code
-* [data_cleaning_1](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/data_cleaning_1.R)
-* [data_cleaning_2](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/data_cleaning_2.R)
-* [exploratory_analysis_for_project_proposal](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/exploratory_analysis_for_project_proposal.R)
-* [regression_analysis](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/regression_analysis.R)
-* [beta_mixture_analysis](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/beta_mixture_analysis.R)
+* [data_cleaning_1](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/data_cleaning_1.R): First data cleaning step containing basic cleaning and merging.  
+* [data_cleaning_2](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/data_cleaning_2.R): Second data cleaning step, which includes handeling of missing data. 
+* [exploratory_analysis_for_project_proposal](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/exploratory_analysis_for_project_proposal.R): Density plots for preliminary topic exploration. 
+* [regression_analysis](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/regression_analysis.R): Linear regression analysis.
+* [beta_mixture_analysis](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/beta_mixture_analysis.R): Beta mixture model analysis.
+
+## Final Project
+Final paper can be found [here](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/Socio-Economic%20Determinants%20of%20Sanitation.pdf).

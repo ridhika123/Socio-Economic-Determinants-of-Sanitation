@@ -8,7 +8,7 @@ Primary data set from ND-GAIN - Notre Dame Global Adaptation Initiative. The dat
 https://gain.nd.edu/
 
 ## Code
-* data_cleaning_1
+* [data_cleaning_1](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/data_cleaning_1.R)
 * data_cleaning_2
 * exploratory_analysis_for_project_proposal
 * regression_analysis

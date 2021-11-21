@@ -14,5 +14,5 @@ Data can be found [here](https://gain.nd.edu/).
 * [regression_analysis](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/regression_analysis.R): Linear regression analysis.
 * [beta_mixture_analysis](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/beta_mixture_analysis.R): Beta mixture model analysis.
 
-## Final Project
+## Final Output
 Final paper can be found [here](https://github.com/ridhika123/Socio-Economic-Determinants-of-Sanitation/blob/main/Socio-Economic%20Determinants%20of%20Sanitation.pdf).

@@ -5,5 +5,11 @@ A country’s access to sanitation can have widespread implications on its educa
 
 ## Data
 Primary data set from ND-GAIN - Notre Dame Global Adaptation Initiative. The database’s main statistic, the ND-GAIN Country Index uses two decades of data across 45 indicators to rank 181 countries annually based upon their vulnerability and their readiness to successfully adapt.
+https://gain.nd.edu/
 
 ## Code
+* data_cleaning_1
+* data_cleaning_2
+* exploratory_analysis_for_project_proposal
+* regression_analysis
+* beta_mixture_analysis
